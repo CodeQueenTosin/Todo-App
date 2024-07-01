@@ -1,8 +1,11 @@
 TodoApp using Next.js and Prisma
+
 Overview
+
 This is a simple TodoApp built with Next.js and Prisma, demonstrating CRUD operations for managing tasks.
 
 Features
+
 Create new tasks with descriptions.
 Read existing tasks, displaying them in a list format.
 Update tasks to mark them as completed or update their details.
